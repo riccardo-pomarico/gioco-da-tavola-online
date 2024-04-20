@@ -1,4 +1,4 @@
-# Gioco da tavola online
+# Gioco da tavolo online
 
 Corso: Ingegneria del Software.
 
